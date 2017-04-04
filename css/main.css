@@ -1,6 +1,9 @@
 body {
     margin: 60px auto;
     width: 70%;
+    background-image: url(ferryman.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 nav ul, footer ul {
     font-family: 'Verdana', 'Geneva', sans-serif;
