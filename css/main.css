@@ -1,102 +1,49 @@
-body 
-{
-    text-align: left;
-	font-size: 12pt;
-	color: black;
-	margin: 10%;
-    background-image: url(ferryman.jpg);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+body {
+    margin: 60px auto;
+    width: 70%;
+    background-color: yellow;
 }
-
-h1
-{
-	text-align: center; 
-	background-color: #98FB98;
-	padding: 15px;
-	margin: 50px 10% 50px 10%;
-	border: 10px solid #000080;
-}
-
-h2, h3, h4
-{
-	color: black;
-	text-align: center;
-}
-
-p
-{
-	font: 12px/30px Georgia, serif;
-	font-size: 100%;
-    padding: 10pt;
-    color: white;
-}
-
-img.special
-{
-    float: left; 
-    padding: 20pt;
-}
-
-img.special2
-{
-    float: right;
-    padding: 20pt;
-}
-
-
-ul, ol
-{
-	font: 12px/30px Georgia, serif;
-	font-size: 100%;
-	border: 5px solid #000080; 
-	background-color: #FFFFB2;
-	padding: 25px;
-	color: black;
-}
-
-
-IMG.displayed 
-{
-    display: block;
-    margin-left: auto;
-    margin-right: auto 
-}
-
-p.author
-{
-    font: 12px/30px Georgia, serif;
-    font-size: 20px;
-	color: white;
-    margin-right: 70px;
-}
-
-#menu 
-{
-    height: 45px;
-    font-size: 16px;
-    font-family: Tahoma, Geneva, sans-serif;
+nav ul, footer ul {
+    font-family: 'Verdana', 'Geneva', sans-serif;
+    padding: 0px;
+    list-style: none;
     font-weight: bold;
-    text-align: center;
-    background-color: #98FB98;
-    border-color: 5px solid black;
-    border-radius: 8px;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+a {
+    text-decoration: none;
+    color: #999;
+}
+a:hover {
+    text-decoration: underline;
+}
+h1 {
+    font-size: 3em;
+    font-family: 'Verdana', 'Geneva', sans-serif;
+}
+h2 {
+    font-size: 1.5em;
+    font-family: 'Verdana', 'Geneva', sans-serif;
+}
+p {
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #333;
+    font-family: 'Verdana', 'Geneva', sans-serif;
+}
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
 }
 
-#menu ul 
-{
-    padding: 8px 0px;
-    margin: 0px;
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
 }
 
-#menu li 
-{ 
-    display: inline; 
-    padding: 20px; 
-}
-
-#menu a:hover 
-{
-    color: #F90; /* sandy-orange */
-    background-color: white;
+ul.posts li {
+    list-style: none;
 }
