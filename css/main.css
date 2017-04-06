@@ -51,3 +51,8 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+img.special {
+    float: left; 
+    padding: 20pt;
+}
