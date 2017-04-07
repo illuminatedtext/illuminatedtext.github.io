@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Illuminated Text</title>
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+			<li><a href="/citations">Citations</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>The Love Song of J. Alfred Prufrock.</h1>
+			<h3>by T.S. Eliot</h3>
+			<h2>Illuminated Text by Manasvi Vanama and Jareeat Purnava</h2>
+			<br>
+			<p><b>Citations</b>
+      <p>"Crab Symbolism - Spirit Animal Totems and Messages." <i>Spirit Animal Totems.</i> N.p., 27 Mar. 2016. Web. 4 Apr. 2017.</p>
+      <p>"Analysis of The Love Song of J. Alfred Prufrock by T.S. Eliot." <i>Poem Analysis.</i> N.p., 28 Apr. 2016. Web. 04 Apr. 2017.</p>
+      <p>"History of Modernism." <i>History of Modernism.</i> N.p., n.d. Web. 05 Apr. 2017.</p>
+      <p>"Salvador Dali Persistence of Memory: Meaning of the Melting Clocks." <i>LEGOMENON: What is the Meaning: Online Literary Journal & Magazine.</i> N.p., 29 May 2013. Web. 05 Apr. 2017.</p>
+      <p>"Inferno (Dante)." <i>Wikipedia</i>. Wikimedia Foundation, 04 Apr. 2017. Web. 05 Apr. 2017.
+</p>
+      <p>Cole-Rous, Jim. "Lesser Known Bible People." <i>What Happened to John the Baptist's Head?</i> N.p., n.d. Web. 06 Apr. 2017.</p>
+      <p>"Beheading of St John the Baptist." <i>Wikipedia.</i> Wikimedia Foundation, 06 Apr. 2017. Web. 06 Apr. 2017.</p>
+      <p>"Salome (play)." <i>Wikipedia.</i> Wikimedia Foundation, 06 Apr. 2017. Web. 06 Apr. 2017.</p>
+      <p>"Food in Literature ▾." <i>Enotes.com.</i> Enotes.com, n.d. Web. 05 Apr. 2017.</p>
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+        		<li><a href="/citations">Citations</a></li>
+			</ul>
+		</footer>
+	</body>
+</html>
